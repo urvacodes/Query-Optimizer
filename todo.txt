@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 from Daemon to java SpringBoot then to the python Model and theeeennnnn
+=======
+from the Daemon to java Spring Boot then To the model 
+>>>>>>> 80b7933daeb6468d1810216796c3d770c51ced22
